@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clogitboost"]
-	path = clogitboost
-	url = https://github.com/cran/clogitboost
 [submodule "STARTdesign"]
 	path = STARTdesign
 	url = https://github.com/cran/STARTdesign
+[submodule "clogitboost"]
+	path = clogitboost
+	url = https://github.com/cran/clogitboost
