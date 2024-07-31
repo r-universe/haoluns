@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PFLR"]
+	path = PFLR
+	url = https://github.com/cran/PFLR
 [submodule "STARTdesign"]
 	path = STARTdesign
 	url = https://github.com/cran/STARTdesign
